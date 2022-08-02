@@ -1,0 +1,16 @@
+header {
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: x-large;
+}
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+.customer {
+    border: 5px strong red;
+    justify-content: space-evenly;
+}
+
